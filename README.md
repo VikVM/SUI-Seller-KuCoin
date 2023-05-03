@@ -10,7 +10,16 @@ Supports proxy
 
 ## Script Launch:
 ### 1) Download the repo and unpack it
+### 1.1) Install requirements. txt or write in the terminal 
+pip install loguru
+pip install kucoin-python
+pip install python-kucoin
 
+or
+
+pip3 install loguru
+pip3 install kucoin-python
+pip3 install python-kucoin
 ------------
 
 
